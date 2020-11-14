@@ -9,7 +9,7 @@
     </include>
 
     <include>
-      <uri>model://box</uri>
+      <uri>model://test_model</uri>
     </include>
   </world>
 </sdf>
